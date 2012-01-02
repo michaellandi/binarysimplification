@@ -1,0 +1,7 @@
+c:\users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\bin\Debug\simplify.exe.config
+C:\Users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\bin\Debug\simplify.xml
+C:\Users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\bin\Debug\simplify.exe
+C:\Users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\bin\Debug\simplify.pdb
+C:\Users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\obj\x86\Debug\simplify.exe
+C:\Users\mlandi\documents\visual studio 2010\Projects\Simplification\Simplification\obj\x86\Debug\simplify.pdb
