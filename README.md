@@ -48,4 +48,4 @@ Or open `Simplification.csproj` in Visual Studio and run from there.
 
 ## License
 
-GNU General Public License v3. See [COPYING](COPYING) for details.
+MIT License. See [LICENSE](LICENSE) for details.
